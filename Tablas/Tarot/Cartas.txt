@@ -1,0 +1,78 @@
+El Loco: confianza, inocencia, mente abierta, comienzo, instinto
+El Mago: poder personal, intención, voluntad, inventinva
+La Sacerdotisa: sabiduría interior, receptividad, espiritualidad, meditación
+La Emperatriz: criar, creatividad, sensualidad, madre
+El Emperador: poder, estructura, estabilidad, autoridad, padre
+El Hierofante: maestro, sistema de creencias, conocimiento, concienzudo, responsabilidad
+Los Amantes: amor, unión, cooperación, elección, sexualidad
+El Carro: impulso, competencia, auto-disciplina, control, determinación
+Fuerza: impulsos instintivos, fuerza interior, supervivencia, coraje
+El Ermitaño: soledad, introspección, perspectiva, sabiduría, guía
+Rueda De La Fortuna: pasar a la acción, cambio, movimiento, destino, suerte, expansión
+Justicia: justicia, balance, ética, ley, responsabilidad
+El Colgado: rendirse, nueva perspectiva, espera, sacrificio, liberación
+Muerte: transformación, fin, conclusión, regeneración
+Templanza: combinando, creando, compromiso, experimentación
+El Diablo: apegos, restricciones, compromiso, limitaciones
+La Torre: conmoción repentina, destrucción, cuestionarse las creencias, caos
+La Estrella: optimismo, renovación, sin límites, paz, astrología
+La Luna: lo inconsciente, la parte oscura de ser, confusión, sueños, intuición
+El Sol: entusiasmo, alegría, claridad, crecimiento personal, auto-aceptación
+Juicio: rito iniciático, madurar, revisión, transición
+El Mundo: integración, completitud, opciones, totalidad, la Tierra, conexión
+As de bastos: nacimiento, energía, inspiración, sexualidad, auto-imagen
+Dos de bastos: elección, potencial, contemplación, umbral, planificación
+Tres de bastos: lanzamiento, planes a largo plazo, previsión, poner cosas en movimiento
+Cuatro de bastos: resultados, recompensas, celebración, trabajo en equipo, gratitud, hogar
+Cinco de bastos: competición, brainstorming, resolver problemas, conflicto
+Seis de bastos: reconocimiento, modelo a seguir, promoción, alabar, confianza en uno mismo
+Siete de bastos: defender lo que merece la pena, amenaza, perseverancia
+Ocho de bastos: rapidez, progreso, energía, viaje aereo
+Nueve de bastos: herido, experimentado, cauto, perseverancia, reservas internas
+Diez de bastos: responsabilidad, carga, obligaciones, éxito, estrés
+Jota de bastos: entusiasta, aventurero, inspirado, nuevo deseo, nueva identidad, nueva idea, nuevo viaje, noticias inspiradoras
+Caballo de bastos: aventurero, arriesgarse, experimental, diversión, apasionado, viaje
+Reina de bastos: creativo, independiente, seguro de sí mismo, bello, apasionado, amigable, optimista, influyente, sexual
+Rey de bastos: auténtico, líder, apasionado, carismático, experimentado, enérgico, influyente, orgulloso, sexual
+As de copas: nuevos sentimientos, nuevo amor, despertar de la intuición, afloramiento de emociones, imaginación
+Dos de copas: igualdad, amor, respeto, compartir, armonía
+Tres de copas: amistad, celebración, diversión, ritual
+Cuatro de copas: abstinencia, indiferencia, insatisfacción, aburrimiento, estar en las nubes
+Cinco de copas: tristeza, duelo, disgustado, arrepentimiento, sufrimiento, ajuste emocional
+Seis de copas: amabilidad, cuidar, nostalgia, recuerdos, niñez
+Siete de copas: fantasía, ilusión, brainstorming creativo, estados alterados
+Ocho de copas: búsqueda espiritual, dejar algo atrás, darse espacio, retirada, viaje
+Nueve de copas: deseos cumplidos, satisfacción, exceso, anfitrión
+Diez de copas: hogar feliz, amor mutuo, bendiciones, paz, familia
+Jota de copas: sensible, amable, imaginativo, romántico, tierno, nuevo amor, cartas de amor
+Caballo de copas: romántico, buscando el amor, voluble, intensidad emocional, idealismo, búsqueda espiritual, artista, ligar
+Reina de copas: empático, receptivo, sensible, introspectivo, psíquico, emocional, amante, soñador, consejero, madre
+Rey de copas: sabio, emocionalmente maduro, experimentado, sereno, calmado, curador, consejero, padre
+As de espadas: realización, verdad, intelecto, claridad, comunicación
+Dos de espadas: indecisión, imparcial, mediador, bloqueo
+Tres de espadas: pérdida, pena, traición, sacrificio necesario
+Cuatro de espadas: descanso, reflexión, descanso mental, incubar ideas, vacaciones
+Cinco de espadas: derrota, auto derrota, discusiones, irritabilidad, sentirse atacado
+Seis de espadas: transición, sanar mentalmente, retirada, apoyo, movimiento, viaje en agua
+Siete de espadas: estrategia, examen mental, decepción, recogida de información, romper acuerdos
+Ocho de espadas: pensamientos de indefensión, ponerse límites, auto crítica, excusas, mentalidad víctima
+Nueve de espadas: preocupación, ansiedad, insomnio, pensamientos reprimidos
+Diez de espadas: tocar fondo, acabado, rendirse, cierre
+Jota de espadas: reflexivo, curioso, intelectual, escritor, estudiante
+Caballo de espadas: revolucionario, filosófico, impaciente, con prisas, explorador, debate
+Reina de espadas: inteligente, sincero, buen comunicador, consciente, independiente, maestro, escritor
+Rey de espadas: objetivo, lógico, inteligente, justo, autoritativo, asertivo, emocionalmente distante
+As de oros: oportunidad, comienzo sano, inversión, plantar semillas, realista
+Dos de oros: adaptabilidad, cambios, multitarea, jugar
+Tres de oros: ayuda, contribución, mentores, planificación, trabajo en equipo, conseguir trabajo
+Cuatro de oros: estable, precavido, proteger recursos, límites, ahorro
+Cinco de oros: falta de seguridad, inestabilidad, pensamiento de escasez, prejuicios, enfermedad, apoyo de amigos
+Seis de oros: flujo financiero, caridad, asistencia, devolver el favor, generosidad
+Siete de oros: evaluación, paciencia, prueba y error, feedback, edición
+Ocho de oros: trabajo que sirve, precisión, compromiso, almacenar, repetición
+Nueve de oros: recompensas merecidas, fruto del trabajo, lujo, autosuficiencia, disciplina
+Diez de oros: legado, permanencia, riqueza, ancestros, sabiduría, hogar
+Jota de oros: práctico, cauteloso, estudiante, nuevo trabajo o proyecto, nueva inversión, nuevos estudios
+Caballo de oros: leal, confiable, práctico, buen trabajador, cauteloso, atención al detalle
+Reina de oros: protector, criar, con recursos, abundancia, realista, fértil, sano, ecológico, ama de casa, madre
+Rey de oros: rico, exitoso, práctico, materialista, cabezota, conservador, jefe, padre cariñoso
