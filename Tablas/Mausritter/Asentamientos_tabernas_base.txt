@@ -1,0 +1,12 @@
+Blanco
+Verde
+Negro
+Rojo
+Plateado
+Encorvado
+Amable
+Oculto
+Astuto
+Copa
+Espinoso
+Quebrado

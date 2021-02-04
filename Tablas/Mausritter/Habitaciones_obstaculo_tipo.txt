@@ -1,0 +1,8 @@
+Puerta cerrada. La llave puede encontrarse en otra habitación. Echarla abajo lleva tiempo y hace ruido
+Superficie empinada. Sin el equipamiento adecuado, los ratones se arriesgan al cansancio o a caídas
+Habitación con una salida en el centro del tejado, a 15 cm de cualquier pared
+Aparato que emite un lamento agudo. Cada turno que se pase aquí o en lugares adyacentes, da el Estado Asustado
+Sección de túnel derrumbada, con huecos demasiado pequeños para pasar
+Túnel completamente inundado de agua
+Charco de barro profundo que bloquea el paso. Impone un Estado Cansado por cada 15 cm recorridos
+Tubo de metal o plástico, largo, liso e inclinado, que sube hacia arriba

@@ -1,0 +1,6 @@
+Posición social: Pobre. | Pago por servicio: 1d6 p.
+Posición social: Común. | Pago por servicio: 1d6 x 10 p.
+Posición social: Común. | Pago por servicio: 1d6 x 10 p.
+Posición social: Burgorratón. | Pago por servicio: 1d6 x 50 p.
+Posición social: Ratón de gremio. | Pago por servicio: 1d4 x 100 p.
+Posición social: Ratón noble. | Pago por servicio: 1d4 x 1000 p.

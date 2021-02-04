@@ -1,0 +1,15 @@
+Bola de fuego | Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio. | Arder en el centro de una fuerte llama durante tres días completos.
+Curar | Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura. | Hacerse un corte de 1d6 de daño a FUE y salpicar con la sangre.
+Proyectil mágico | Inflige [SUMA] + [DADOS] de daño a una criatura a la vista. | Dejar caer desde al menos 9 m de alto. Toca la tablilla durante el siguiente turno.
+Miedo | Impone el Estado Asustado a [DADOS] criaturas. Recibir el Estado Asustado de una criatura hostil mientras lleves la tablilla.
+Oscuridad | Crea una esfera de oscuridad pura de [SUMA x5] cm de diámetro durante [DADOS] turnos. | Dejar en un lugar sin luz y sin cubrir durante tres días.
+Restaurar | Despeja el Estado Asustado o Cansado de [DADOS +1] criaturas. | Enterrar en un campo tranquilo o en una ribera durante tres días.
+Comprensión | Hace que [DADOS] criaturas de otra especie entiendan tus palabras durante [DADOS] turnos. | Entregarlo voluntariamente a una criatura de otra especie (que puede responderte).
+Escarabajo fantasma | Crea un escarabajo ilusorio que puede cargar 6 espacios de inventario durante [DADOS x6] turnos. | Enterrar en un cementerio de escarabajos durante tres noches.
+Luz cegadora | Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos. | Presenciar la primera luz del alba y la última del ocaso durante tres días.
+Anillo invisible | Crea un círculo de fuerza de [DADOS x15] cm. Es invisible e inamovible. Dura [DADOS] turnos. | Construir un anillo de hierro del mismo tamaño. Atraviesa la tablilla por él. Esto desintegra el anillo.
+Apertura | Éxito automático en una salvación de FUE para abrir puertas u objetos a una distancia de [DADOS x15] cm. | Colocar en una caja con cerradura, dentro de otra y, una vez más, dentro de otra. Dejarla tres días.
+Grasa | Cubre [DADOS x15] cm de diámetro con grasa resbaladiza e inflamable. Obliga a las criaturas en el área a una salvación de DES o quedar tumbadas. | Cubrirse de grasa animal. Mantener hasta que se pudra.
+Crecimiento | Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno. | Dejar en las ramas más altas de un árbol durante tres días.
+Invisibilidad | Hace a una criatura invisible durante [DADOS] turnos. Si se mueve, reduce la duración en 1 turno. | Pasar un día sin abrir los ojos llevando el hechizo.
+Trampa de gatos | Convierte un objeto en un reclamo irresistible para los gatos. Dura [DADOS] turnos. | Dar a un gato un regalo que desee.

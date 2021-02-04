@@ -1,0 +1,6 @@
+Maldición: Las tiradas de salvación contra críticos son con desventaja. | Despejada con: Haz un sacrificio por el resto en situación de vida o muerte.
+Maldición: Al adquirir el Estado Cansado, gana otro más. | Despejada con: Intercámbiate con un granjero pobre durante una estación.
+Maldición: Pasa una salvación de VOL para no atacar al ser amenazado. | Despejada con: Establece una paz duradera con un enemigo mortal.
+Maldición: Las tiradas de reacción se hacen con un modificador de -1. | Despejada con: Regala todo lo que tienes, sin hacer trampa.
+Maldición: Si ves a un aliado sufriendo daño, toma el Estado Asustado. | Despejada con: Cumple la voluntad de un ratón moribundo.
+Maldición: Los hechizos lanzados en tu presencia siempre marcan 1 uso. | Despejada con: Destruye la fuente de poder de un búho hechicero.

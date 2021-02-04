@@ -1,0 +1,6 @@
+Granja/Cruce de caminos: Guiado por los ancianos del poblado | Aldea/Villa: Administrado por caballero o señor de baja nobleza | Pueblo/Ciudad: Organizado por un jefe de gremio
+Granja: Guiado por los ancianos del poblado | Cruce de caminos/Aldea: Administrado por caballero o señor de baja nobleza | Villa/Pueblo: Organizado por un jefe de gremio | Ciudad: Asentamiento libre. Concilio de burgorratones
+Granja/Cruce de caminos: Administrado por caballero o señor de baja nobleza | Aldea/Villa: Organizado por un jefe de gremio | Pueblo/Ciudad: Asentamiento libre. Concilio de burgorratones
+Granja: Administrado por caballero o señor de baja nobleza | Cruce de caminos/Aldea: Organizado por un jefe de gremio | Villa/Pueblo: Asentamiento libre. Concilio de burgorratones | Ciudad: Regentado por un ratón de alta nobleza
+Granja/Cruce de caminos: Organizado por un jefe de gremio | Aldea/Villa: Asentamiento libre. Concilio de burgorratones | Pueblo/Ciudad: Regentado por un ratón de alta nobleza
+Guiado por los ancianos del poblado | Administrado por caballero o señor de baja nobleza | Granja: Organizado por un jefe de gremio | Cruce de caminos/Cruce de caminos/Aldea: Asentamiento libre. Concilio de burgorratones | Villa/Pueblo: Regentado por un ratón de alta nobleza | Ciudad: Asiento señorial de barón

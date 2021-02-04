@@ -1,0 +1,20 @@
+Campo: Hormiguero  | Bosque:  Cabaña abandonada  | Río:  Esclusa  | Pueblo humano:  Coche abandonado
+Campo: Haya, partida por un rayo  | Bosque:  Claro luminoso  | Río:  Afluentes que convergen  | Pueblo humano:  Balconada
+Campo: Árbol blanco  | Bosque:  Cataratas  | Río:  Sauce llorón  | Pueblo humano:  Seto de zarzamora
+Campo: Esqueleto de vaca  | Bosque:  Acantilado  | Río:  Ribera erosionada  | Pueblo humano:  Carretera concurrida
+Campo: Campo de flores  | Bosque:  Manantial claro y fresco  | Río:  Tronco cruzando el río  | Pueblo humano:  Salida de desagüe
+Campo: Campo de trigo  | Bosque:  Arbustos densos  | Río:  Cascada grande  | Pueblo humano:  Mobiliario abandonado
+Campo: Fila de setos  | Bosque:  Cara tallada en un roble  | Río:  Roca enorme  | Pueblo humano:  Invernadero
+Campo: Tocón hueco  | Bosque:  Madriguera de zorro  | Río:  Presa de hormigón  | Pueblo humano:  Ruinas de ratones
+Campo: Roca plana enorme  | Bosque:  Arboleda de fresnos  | Río:  Islote aislado  | Pueblo humano:  Casa recién construida
+Campo: Estanque con lirios  | Bosque:  Encina milenaria  | Río:  Lodazal  | Pueblo humano:  Jardín descuidado
+Campo: Enorme árbol caído  | Bosque:  Pino enorme  | Río:  Rápidos rocosos  | Pueblo humano:  Nido de palomas
+Campo: Viejo roble quebradizo  | Bosque:  Huellas de humanos  | Río:  Fila de árboles muertos  | Pueblo humano:  Montón de basura
+Campo: Vieja granja  | Bosque:  Claro hecho por humanos  | Río:  Dique cenagoso  | Pueblo humano:  Ribera pedregosa
+Campo: Camino de tierra tranquilo  | Bosque:  Arroyo serpenteante  | Río:  Camino de piedras  | Pueblo humano:  Carrito de la compra
+Campo: Madriguera de conejos  | Bosque:  Ruinas descuidadas  | Río:  Puente de piedra  | Pueblo humano:  Estanque apestoso
+Campo: Nido de gorrión  | Bosque:  Anillo de piedras  | Río:  Zona poco profunda  | Pueblo humano:  Puente de acero
+Campo: Pinar  | Bosque:  Saliente rocoso  | Río:  Basura sumergida  | Pueblo humano:  Contenedor con basura
+Campo: Colina empinada  | Bosque:  Hendidura hueca  | Río:  Barcaza hundida  | Pueblo humano:  Sendero entre árboles
+Campo: Muro de piedra  | Bosque:  Raíces enredadas  | Río:  Ramas retorcidas  | Pueblo humano:  Aparcamiento subterráneo
+Campo: Higuera cargada de brevas  | Bosque:  Árbol con termitas  | Río:  Puente de madera  | Pueblo humano:  Cabaña para leña

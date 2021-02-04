@@ -1,0 +1,36 @@
+Sujeto de pruebas | Hechizo: Proyectil mágico | Chaleco de plomo (armad. pesada)
+Forrajeador | Escudo y jubón (armad. ligera) | Menaje de cocina
+Habitante de las jaulas | Hechizo: Comprensión | Botella de leche
+Curandero del arbusto | Hechizo: Curar | Incienso
+Curtidor | Escudo y jubón (armad. ligera) | Tijeras
+Ratón callejero | Daga (ligera, d6) | Petaca de café
+Sacerdote mendicante | Hechizo: Restaurar | Símbolo sagrado
+Pastor de bichos | Ayudante: Escarabajo fiel | Pértiga, 15 cm
+Cervecero | Ayudante: Portaantorchas borracho | Barril de cerveza pequeño
+Pescador | Red | Aguja (ligera, 1d6)
+Herrero | Martillo (mediana, 1d6 / 1d8) | Lima de metal
+Cableador | Cable, rollo | Linterna eléctrica
+Leñador | Hacha (mediana, 1d6 / 1d8) | Cordel, rollo
+Sectario del Murciélago | Hechizo: Oscuridad | Bolsa de dientes de murciélago
+Minero de latón | Pico (mediana, 1d6 / 1d8) | Linterna
+Recolector de basura | Gancho para basura (pesada, 1d10) | Espejo
+Trepamuros | Anzuelo | Hilo, bobina
+Mercader | Ayudante: Rata montera | Pagaré de un ratón noble (20 p.)
+Balsero | Martillo (mediana, 1d6 / 1d8) | Clavos de madera
+Domador de gusanos | Pértiga, 15 cm | Jabón
+Jinete de gorrión | Anzuelo | Gafas protectoras
+Guía de alcantarillas | Lima para metal | Hilo, bobina
+Guarda de prisión | Cadena, 15 cm | Lanza (pesada, 1d10)
+Jardinero de hongos | Hongos secos (como ración) | Máscara antiesporas
+Constructor de presa | Pala | Clavos de madera
+Cartógrafo | Pluma y tintero | Brújula
+Ladrón trampero | Cuña de queso | Pegamento
+Vagabundo | Tienda | Mapa del tesoro, no fiable
+Agricultor de grano | Horca (pesada, 1d10) | Silbato
+Mensajero | Saco de dormir | Documentos, sellados
+Trovador | Instrumento musical | Kit de disfraz
+Tahúr | Juego de dados trucados | Espejo
+Extractor de savia | Cubo | Clavos de madera
+Apicultor | Tarro de miel | Red
+Bibliotecario | Fragmento de libro oscuro | Pluma y tintero
+Noble empobrecido | Sombrero de fieltro | Perfume

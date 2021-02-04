@@ -1,0 +1,3 @@
+language="python3"
+run="pip install dice; python consoleapp.py"
+onBoot="pip install dice; python consoleapp.py"
