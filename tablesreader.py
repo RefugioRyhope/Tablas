@@ -3,7 +3,7 @@
 import random
 import re
 import os
-from dice import roll
+from dice import roll, DiceException
 import sys
 import inspect
 
@@ -93,7 +93,9 @@ def rtn(tables, table_number):
     return rt(table)
 
 #rts nombre: busca el nombre de la tabla o sistemas. Si solo hay una tabla con que contenga ese nombre, elegirá un elemento de ella. Ejemplo: "rts carta"
-def rts(tables, search_string):
+def rts(*argv):
+    tables = argv[0]
+    search_string = " ".join(argv[1:])
 
     matches = [s for s in tables if search_string.lower() in s.filename.lower()]
 
@@ -112,14 +114,22 @@ def rts(tables, search_string):
         return response
 
 #r XdY: lanza X dados de Y caras cada uno. Ejemplo: "r 2d6" lanzará 2 dados de 6 caras
-def r(tables, string):
-    results = roll(string)
+def r(*argv):
+    tables = argv[0]
+    string = " ".join(argv[1:])
+
+    results = ""
+    try:
+        results = roll(string)
+    except DiceException:
+        return Response(message="Error en el formato de los dados", data="")
+
     minimum = None
     maximum = None
     total = 0
 
     if isinstance(results, int):
-        return Response(message="", data=results)
+        return Response(message="Resultados para la tirada:", data=str(results))
 
     for dice in results:
         if minimum == None and maximum == None:
@@ -133,10 +143,10 @@ def r(tables, string):
 
         total += dice
 
-    return Response(message="", data=str(results) + "\n\nMinimum=" + str(minimum) + ", Maximum=" + str(maximum) + ", total=" + str(total))
+    return Response(message="Resultados para la tirada:", data=str(results) + "\n\nMínimo=" + str(minimum) + ", Máximo=" + str(maximum) + ", total=" + str(total))
 
 #ayuda: Imprime esta ayuda
-def ayuda():
+def ayuda(*argv):
     print("Comandos disponibles:\n")
     this_module = sys.modules[__name__]
     module_functions= inspect.getmembers(this_module, inspect.isfunction)
